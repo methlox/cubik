@@ -37,7 +37,7 @@ To submit a pull request:
 2. In the GitHub Web UI, click the _New Pull Request_ button.
 3. Select `cubik` as _base fork_ and `main` as `base`, then click _Create Pull Request_.
    - We integrate all changes into the master branch.
-4. Fill in the Pull Request description according to the [proposed template]().
+4. Fill in the Pull Request description according to the [proposed template](https://github.com/methlox/cubik/blob/contribution/PULL_REQUEST_TEMPLATE.md).
 5. Click _Create Pull Request_.
 6. Wait for results/reviews, process the feedback.
    - If you do not get feedback after 3 days, feel free to ping maintainers in the comments.
@@ -53,6 +53,6 @@ Install the Prettier plugin in your desired editor.
 
 # Links
 
-- [Cubik Pull Request Template]()
+- [Cubik Pull Request Template](https://github.com/methlox/cubik/blob/contribution/PULL_REQUEST_TEMPLATE.md)
 - [List of newbie-friendly issues in the core](<https://github.com/cubik-so/cubik/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22>)
 ```
